@@ -1933,25 +1933,11 @@
   ],
   "travelLogs": [
     {
-      "countryId": "FRA",
-      "isVisited": true,
-      "visitedDate": "2022-08-03",
-      "rating": 5,
-      "notes": "I loved the pains aux chocolat",
-      "id": "1"
-    },
-    {
-      "countryId": "CPV",
-      "isVisited": false,
-      "notes": "Hike volcanoes in Fogo, Swim in turquoise water in Sal, Listen to morna music in Mindelo, Wander colorful streets of São Vicente, Watch the sunset from a black sand beach.",
-      "id": "sMv9fZ-"
-    },
-    {
       "countryId": "BRA",
-      "isVisited": true,
-      "visitedDate": "2025-05-21",
-      "rating": "5",
-      "notes": "Samba y caipirinhas",
+      "isVisited": false,
+      "visitedDate": null,
+      "rating": null,
+      "notes": "Visit Christ the Redeemer, relax on the beaches, take the cable car to Sugarloaf Mountain",
       "id": "PD-q2_6"
     },
     {
@@ -1977,6 +1963,54 @@
       "rating": null,
       "notes": "The best safaris!",
       "id": "Oqw76Tw"
-    }
+    },
+      {
+    "countryId": "SLO",
+    "isVisited": false,
+    "visitedDate": null,
+    "rating": null,
+    "notes": "Would love to explore Lake Bled and hike in Triglav National Park.",
+    "id": "TRAVEL01"
+  },
+  {
+    "countryId": "COL",
+    "isVisited": true,
+    "visitedDate": "2023-06-14",
+    "rating": 5,
+    "notes": "Loved Medellín and the Caribbean coast — especially adored Rincón del Mar.",
+    "id": "TRAVEL05"
+  },
+    {
+    "countryId": "AUS",
+    "isVisited": true,
+    "visitedDate": "2016-11-10",
+    "rating": 5,
+    "notes": "Unforgettable trip — loved Sydney, the beaches, and the Outback.",
+    "id": "TRAVEL03"
+  },
+   {
+    "countryId": "MEX",
+    "isVisited": true,
+    "visitedDate": "2022-02-20",
+    "rating": 4,
+    "notes": "Enjoyed the vibrant culture and food in Oaxaca and Mexico City.",
+    "id": "TRAVEL07"
+  },
+  {
+    "countryId": "CUB",
+    "isVisited": false,
+    "visitedDate": null,
+    "rating": null,
+    "notes": "Drawn to the music, history, and charm of Havana and Viñales.",
+    "id": "TRAVEL08"
+  },
+    {
+    "countryId": "ISL",
+    "isVisited": false,
+    "visitedDate": null,
+    "rating": null,
+    "notes": "Hope to see waterfalls, volcanoes, and northern lights!",
+    "id": "TRAVEL10"
+  }
   ]
 }
