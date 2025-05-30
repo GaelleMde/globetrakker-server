@@ -1,0 +1,1982 @@
+{
+  "countries": [
+    {
+      "id": "AFG",
+      "name": "Afghanistan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/af.png",
+      "capital": "Kabul",
+      "currency": "Afghan Afghani",
+      "area": 652230,
+      "population": 40100000
+    },
+    {
+      "id": "ALB",
+      "name": "Albania",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/al.png",
+      "capital": "Tirana",
+      "currency": "Albanian Lek",
+      "area": 28748,
+      "population": 2832439
+    },
+    {
+      "id": "DZA",
+      "name": "Algeria",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/dz.png",
+      "capital": "Algiers",
+      "currency": "Algerian Dinar",
+      "area": 2381741,
+      "population": 44700000
+    },
+    {
+      "id": "AND",
+      "name": "Andorra",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ad.png",
+      "capital": "Andorra la Vella",
+      "currency": "Euro",
+      "area": 468,
+      "population": 77265
+    },
+    {
+      "id": "AGO",
+      "name": "Angola",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ao.png",
+      "capital": "Luanda",
+      "currency": "Angolan Kwanza",
+      "area": 1246700,
+      "population": 34500000
+    },
+    {
+      "id": "ATG",
+      "name": "Antigua and Barbuda",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/ag.png",
+      "capital": "Saint John's",
+      "currency": "East Caribbean Dollar",
+      "area": 442,
+      "population": 97928
+    },
+    {
+      "id": "ARG",
+      "name": "Argentina",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/ar.png",
+      "capital": "Buenos Aires",
+      "currency": "Argentine Peso",
+      "area": 2780400,
+      "population": 45800000
+    },
+    {
+      "id": "ARM",
+      "name": "Armenia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/am.png",
+      "capital": "Yerevan",
+      "currency": "Armenian Dram",
+      "area": 29743,
+      "population": 2963900
+    },
+    {
+      "id": "AUS",
+      "name": "Australia",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/au.png",
+      "capital": "Canberra",
+      "currency": "Australian Dollar",
+      "area": 7692024,
+      "population": 25700000
+    },
+    {
+      "id": "AUT",
+      "name": "Austria",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/at.png",
+      "capital": "Vienna",
+      "currency": "Euro",
+      "area": 83871,
+      "population": 9040000
+    },
+    {
+      "id": "AZE",
+      "name": "Azerbaijan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/az.png",
+      "capital": "Baku",
+      "currency": "Azerbaijani Manat",
+      "area": 86600,
+      "population": 10100000
+    },
+    {
+      "id": "BHS",
+      "name": "Bahamas",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/bs.png",
+      "capital": "Nassau",
+      "currency": "Bahamian Dollar",
+      "area": 13943,
+      "population": 395000
+    },
+    {
+      "id": "BHR",
+      "name": "Bahrain",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/bh.png",
+      "capital": "Manama",
+      "currency": "Bahraini Dinar",
+      "area": 765,
+      "population": 1700000
+    },
+    {
+      "id": "BGD",
+      "name": "Bangladesh",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/bd.png",
+      "capital": "Dhaka",
+      "currency": "Bangladeshi Taka",
+      "area": 147570,
+      "population": 169000000
+    },
+    {
+      "id": "BRB",
+      "name": "Barbados",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/bb.png",
+      "capital": "Bridgetown",
+      "currency": "Barbadian Dollar",
+      "area": 430,
+      "population": 287000
+    },
+    {
+      "id": "BLR",
+      "name": "Belarus",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/by.png",
+      "capital": "Minsk",
+      "currency": "Belarusian Ruble",
+      "area": 207600,
+      "population": 9340000
+    },
+    {
+      "id": "BEL",
+      "name": "Belgium",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/be.png",
+      "capital": "Brussels",
+      "currency": "Euro",
+      "area": 30528,
+      "population": 11600000
+    },
+    {
+      "id": "BLZ",
+      "name": "Belize",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/bz.png",
+      "capital": "Belmopan",
+      "currency": "Belize Dollar",
+      "area": 22966,
+      "population": 400000
+    },
+    {
+      "id": "BEN",
+      "name": "Benin",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/bj.png",
+      "capital": "Porto-Novo",
+      "currency": "West African CFA franc",
+      "area": 112622,
+      "population": 13000000
+    },
+    {
+      "id": "BTN",
+      "name": "Bhutan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/bt.png",
+      "capital": "Thimphu",
+      "currency": "Bhutanese Ngultrum",
+      "area": 38394,
+      "population": 777000
+    },
+    {
+      "id": "BOL",
+      "name": "Bolivia",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/bo.png",
+      "capital": "Sucre",
+      "currency": "Bolivian Boliviano",
+      "area": 1098581,
+      "population": 12000000
+    },
+    {
+      "id": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ba.png",
+      "capital": "Sarajevo",
+      "currency": "Bosnian Convertible Mark",
+      "area": 51197,
+      "population": 3270000
+    },
+    {
+      "id": "BWA",
+      "name": "Botswana",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/bw.png",
+      "capital": "Gaborone",
+      "currency": "Botswana Pula",
+      "area": 581730,
+      "population": 2630000
+    },
+    {
+      "id": "BRA",
+      "name": "Brazil",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/br.png",
+      "capital": "Brasília",
+      "currency": "Brazilian Real",
+      "area": 8515767,
+      "population": 215000000
+    },
+    {
+      "id": "BRN",
+      "name": "Brunei Darussalam",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/bn.png",
+      "capital": "Bandar Seri Begawan",
+      "currency": "Brunei Dollar",
+      "area": 5765,
+      "population": 441000
+    },
+    {
+      "id": "BGR",
+      "name": "Bulgaria",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/bg.png",
+      "capital": "Sofia",
+      "currency": "Bulgarian Lev",
+      "area": 110879,
+      "population": 6900000
+    },
+    {
+      "id": "BFA",
+      "name": "Burkina Faso",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/bf.png",
+      "capital": "Ouagadougou",
+      "currency": "West African CFA franc",
+      "area": 274200,
+      "population": 22000000
+    },
+    {
+      "id": "BDI",
+      "name": "Burundi",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/bi.png",
+      "capital": "Gitega",
+      "currency": "Burundian Franc",
+      "area": 27834,
+      "population": 12600000
+    },
+    {
+      "id": "CPV",
+      "name": "Cabo Verde",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/cv.png",
+      "capital": "Praia",
+      "currency": "Cape Verdean Escudo",
+      "area": 4033,
+      "population": 588000
+    },
+    {
+      "id": "KHM",
+      "name": "Cambodia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/kh.png",
+      "capital": "Phnom Penh",
+      "currency": "Cambodian Riel",
+      "area": 181035,
+      "population": 16900000
+    },
+    {
+      "id": "CMR",
+      "name": "Cameroon",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/cm.png",
+      "capital": "Yaoundé",
+      "currency": "Central African CFA franc",
+      "area": 475442,
+      "population": 27200000
+    },
+    {
+      "id": "CAN",
+      "name": "Canada",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/ca.png",
+      "capital": "Ottawa",
+      "currency": "Canadian Dollar",
+      "area": 9984670,
+      "population": 38200000
+    },
+    {
+      "id": "CAF",
+      "name": "Central African Republic",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/cf.png",
+      "capital": "Bangui",
+      "currency": "Central African CFA franc",
+      "area": 622984,
+      "population": 5400000
+    },
+    {
+      "id": "TCD",
+      "name": "Chad",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/td.png",
+      "capital": "N'Djamena",
+      "currency": "Central African CFA franc",
+      "area": 1284000,
+      "population": 17000000
+    },
+    {
+      "id": "CHL",
+      "name": "Chile",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/cl.png",
+      "capital": "Santiago",
+      "currency": "Chilean Peso",
+      "area": 756102,
+      "population": 19400000
+    },
+    {
+      "id": "CHN",
+      "name": "China",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/cn.png",
+      "capital": "Beijing",
+      "currency": "Chinese Yuan",
+      "area": 9596961,
+      "population": 1410000000
+    },
+    {
+      "id": "COL",
+      "name": "Colombia",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/co.png",
+      "capital": "Bogotá",
+      "currency": "Colombian Peso",
+      "area": 1141748,
+      "population": 51600000
+    },
+    {
+      "id": "COM",
+      "name": "Comoros",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/km.png",
+      "capital": "Moroni",
+      "currency": "Comorian Franc",
+      "area": 1862,
+      "population": 888000
+    },
+    {
+      "id": "COG",
+      "name": "Congo (Republic of the)",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/cg.png",
+      "capital": "Brazzaville",
+      "currency": "Central African CFA franc",
+      "area": 342000,
+      "population": 5600000
+    },
+    {
+      "id": "COD",
+      "name": "Congo (Democratic Republic of the)",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/cd.png",
+      "capital": "Kinshasa",
+      "currency": "Congolese Franc",
+      "area": 2344858,
+      "population": 95000000
+    },
+    {
+      "id": "CRI",
+      "name": "Costa Rica",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/cr.png",
+      "capital": "San José",
+      "currency": "Costa Rican Colón",
+      "area": 51100,
+      "population": 5100000
+    },
+    {
+      "id": "HRV",
+      "name": "Croatia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/hr.png",
+      "capital": "Zagreb",
+      "currency": "Euro",
+      "area": 56594,
+      "population": 3870000
+    },
+    {
+      "id": "CUB",
+      "name": "Cuba",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/cu.png",
+      "capital": "Havana",
+      "currency": "Cuban Peso",
+      "area": 109884,
+      "population": 11300000
+    },
+    {
+      "id": "CYP",
+      "name": "Cyprus",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/cy.png",
+      "capital": "Nicosia",
+      "currency": "Euro",
+      "area": 9251,
+      "population": 1200000
+    },
+    {
+      "id": "CZE",
+      "name": "Czechia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/cz.png",
+      "capital": "Prague",
+      "currency": "Czech Koruna",
+      "area": 78865,
+      "population": 10700000
+    },
+    {
+      "id": "DNK",
+      "name": "Denmark",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/dk.png",
+      "capital": "Copenhagen",
+      "currency": "Danish Krone",
+      "area": 43094,
+      "population": 5830000
+    },
+    {
+      "id": "DJI",
+      "name": "Djibouti",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/dj.png",
+      "capital": "Djibouti City",
+      "currency": "Djiboutian Franc",
+      "area": 23200,
+      "population": 1000000
+    },
+    {
+      "id": "DMA",
+      "name": "Dominica",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/dm.png",
+      "capital": "Roseau",
+      "currency": "East Caribbean Dollar",
+      "area": 751,
+      "population": 72000
+    },
+    {
+      "id": "DOM",
+      "name": "Dominican Republic",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/do.png",
+      "capital": "Santo Domingo",
+      "currency": "Dominican Peso",
+      "area": 48671,
+      "population": 11000000
+    },
+    {
+      "id": "ECU",
+      "name": "Ecuador",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/ec.png",
+      "capital": "Quito",
+      "currency": "United States Dollar",
+      "area": 283561,
+      "population": 18000000
+    },
+    {
+      "id": "EGY",
+      "name": "Egypt",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/eg.png",
+      "capital": "Cairo",
+      "currency": "Egyptian Pound",
+      "area": 1010408,
+      "population": 104000000
+    },
+    {
+      "id": "SLV",
+      "name": "El Salvador",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/sv.png",
+      "capital": "San Salvador",
+      "currency": "United States Dollar",
+      "area": 21041,
+      "population": 6300000
+    },
+    {
+      "id": "GNQ",
+      "name": "Equatorial Guinea",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/gq.png",
+      "capital": "Malabo",
+      "currency": "Central African CFA franc",
+      "area": 28051,
+      "population": 1400000
+    },
+    {
+      "id": "ERI",
+      "name": "Eritrea",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/er.png",
+      "capital": "Asmara",
+      "currency": "Eritrean Nakfa",
+      "area": 117600,
+      "population": 3600000
+    },
+    {
+      "id": "EST",
+      "name": "Estonia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ee.png",
+      "capital": "Tallinn",
+      "currency": "Euro",
+      "area": 45227,
+      "population": 1330000
+    },
+    {
+      "id": "SWZ",
+      "name": "Eswatini",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/sz.png",
+      "capital": "Mbabane (administrative), Lobamba (royal and legislative)",
+      "currency": "Swazi Lilangeni",
+      "area": 17364,
+      "population": 1160000
+    },
+    {
+      "id": "ETH",
+      "name": "Ethiopia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/et.png",
+      "capital": "Addis Ababa",
+      "currency": "Ethiopian Birr",
+      "area": 1104300,
+      "population": 120000000
+    },
+    {
+      "id": "FJI",
+      "name": "Fiji",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/fj.png",
+      "capital": "Suva",
+      "currency": "Fijian Dollar",
+      "area": 18272,
+      "population": 900000
+    },
+    {
+      "id": "FIN",
+      "name": "Finland",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/fi.png",
+      "capital": "Helsinki",
+      "currency": "Euro",
+      "area": 338424,
+      "population": 5540000
+    },
+    {
+      "id": "FRA",
+      "name": "France",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/fr.png",
+      "capital": "Paris",
+      "currency": "Euro",
+      "area": 551695,
+      "population": 67700000
+    },
+    {
+      "id": "GAB",
+      "name": "Gabon",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ga.png",
+      "capital": "Libreville",
+      "currency": "Central African CFA franc",
+      "area": 267668,
+      "population": 2300000
+    },
+    {
+      "id": "GMB",
+      "name": "Gambia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/gm.png",
+      "capital": "Banjul",
+      "currency": "Gambian Dalasi",
+      "area": 10689,
+      "population": 2500000
+    },
+    {
+      "id": "GEO",
+      "name": "Georgia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/ge.png",
+      "capital": "Tbilisi",
+      "currency": "Georgian Lari",
+      "area": 69700,
+      "population": 3700000
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/de.png",
+      "capital": "Berlin",
+      "currency": "Euro",
+      "area": 357022,
+      "population": 83149300
+    },
+    {
+      "id": "GHA",
+      "name": "Ghana",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/gh.png",
+      "capital": "Accra",
+      "currency": "Ghanaian Cedi",
+      "area": 238533,
+      "population": 32000000
+    },
+    {
+      "id": "GRC",
+      "name": "Greece",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/gr.png",
+      "capital": "Athens",
+      "currency": "Euro",
+      "area": 131957,
+      "population": 10400000
+    },
+    {
+      "id": "GRD",
+      "name": "Grenada",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/gd.png",
+      "capital": "St. George's",
+      "currency": "East Caribbean Dollar",
+      "area": 344,
+      "population": 112000
+    },
+    {
+      "id": "GTM",
+      "name": "Guatemala",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/gt.png",
+      "capital": "Guatemala City",
+      "currency": "Guatemalan Quetzal",
+      "area": 108889,
+      "population": 17900000
+    },
+    {
+      "id": "GIN",
+      "name": "Guinea",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/gn.png",
+      "capital": "Conakry",
+      "currency": "Guinean Franc",
+      "area": 245857,
+      "population": 13800000
+    },
+    {
+      "id": "GNB",
+      "name": "Guinea-Bissau",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/gw.png",
+      "capital": "Bissau",
+      "currency": "West African CFA franc",
+      "area": 36125,
+      "population": 2000000
+    },
+    {
+      "id": "GUY",
+      "name": "Guyana",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/gy.png",
+      "capital": "Georgetown",
+      "currency": "Guyanese Dollar",
+      "area": 214969,
+      "population": 791000
+    },
+    {
+      "id": "HTI",
+      "name": "Haiti",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/ht.png",
+      "capital": "Port-au-Prince",
+      "currency": "Haitian Gourde",
+      "area": 27750,
+      "population": 11400000
+    },
+    {
+      "id": "HND",
+      "name": "Honduras",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/hn.png",
+      "capital": "Tegucigalpa",
+      "currency": "Honduran Lempira",
+      "area": 112492,
+      "population": 10000000
+    },
+    {
+      "id": "HUN",
+      "name": "Hungary",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/hu.png",
+      "capital": "Budapest",
+      "currency": "Hungarian Forint",
+      "area": 93028,
+      "population": 9700000
+    },
+    {
+      "id": "ISL",
+      "name": "Iceland",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/is.png",
+      "capital": "Reykjavík",
+      "currency": "Icelandic Króna",
+      "area": 103000,
+      "population": 372000
+    },
+    {
+      "id": "IND",
+      "name": "India",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/in.png",
+      "capital": "New Delhi",
+      "currency": "Indian Rupee",
+      "area": 3287590,
+      "population": 1400000000
+    },
+    {
+      "id": "IDN",
+      "name": "Indonesia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/id.png",
+      "capital": "Jakarta",
+      "currency": "Indonesian Rupiah",
+      "area": 1904569,
+      "population": 276000000
+    },
+    {
+      "id": "IRN",
+      "name": "Iran (Islamic Republic of)",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/ir.png",
+      "capital": "Tehran",
+      "currency": "Iranian Rial",
+      "area": 1648195,
+      "population": 85000000
+    },
+    {
+      "id": "IRQ",
+      "name": "Iraq",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/iq.png",
+      "capital": "Baghdad",
+      "currency": "Iraqi Dinar",
+      "area": 438317,
+      "population": 41000000
+    },
+    {
+      "id": "IRL",
+      "name": "Ireland",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ie.png",
+      "capital": "Dublin",
+      "currency": "Euro",
+      "area": 70273,
+      "population": 5000000
+    },
+    {
+      "id": "ITA",
+      "name": "Italy",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/it.png",
+      "capital": "Rome",
+      "currency": "Euro",
+      "area": 301336,
+      "population": 59100000
+    },
+    {
+      "id": "JAM",
+      "name": "Jamaica",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/jm.png",
+      "capital": "Kingston",
+      "currency": "Jamaican Dollar",
+      "area": 10991,
+      "population": 2800000
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/jp.png",
+      "capital": "Tokyo",
+      "currency": "Japanese Yen",
+      "area": 377975,
+      "population": 125000000
+    },
+    {
+      "id": "JOR",
+      "name": "Jordan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/jo.png",
+      "capital": "Amman",
+      "currency": "Jordanian Dinar",
+      "area": 89342,
+      "population": 10900000
+    },
+    {
+      "id": "KAZ",
+      "name": "Kazakhstan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/kz.png",
+      "capital": "Nur-Sultan",
+      "currency": "Kazakhstani Tenge",
+      "area": 2724900,
+      "population": 19000000
+    },
+    {
+      "id": "KEN",
+      "name": "Kenya",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ke.png",
+      "capital": "Nairobi",
+      "currency": "Kenyan Shilling",
+      "area": 580367,
+      "population": 55000000
+    },
+    {
+      "id": "KIR",
+      "name": "Kiribati",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/ki.png",
+      "capital": "South Tarawa",
+      "currency": "Australian Dollar",
+      "area": 811,
+      "population": 120000
+    },
+    {
+      "id": "PRK",
+      "name": "Korea (Democratic People's Republic of)",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/kp.png",
+      "capital": "Pyongyang",
+      "currency": "North Korean Won",
+      "area": 120538,
+      "population": 25800000
+    },
+    {
+      "id": "KOR",
+      "name": "Korea (Republic of)",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/kr.png",
+      "capital": "Seoul",
+      "currency": "South Korean Won",
+      "area": 100210,
+      "population": 51700000
+    },
+    {
+      "id": "KWT",
+      "name": "Kuwait",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/kw.png",
+      "capital": "Kuwait City",
+      "currency": "Kuwaiti Dinar",
+      "area": 17818,
+      "population": 4300000
+    },
+    {
+      "id": "KGZ",
+      "name": "Kyrgyzstan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/kg.png",
+      "capital": "Bishkek",
+      "currency": "Kyrgyzstani Som",
+      "area": 199951,
+      "population": 6600000
+    },
+    {
+      "id": "LAO",
+      "name": "Lao People's Democratic Republic",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/la.png",
+      "capital": "Vientiane",
+      "currency": "Lao Kip",
+      "area": 236800,
+      "population": 7300000
+    },
+    {
+      "id": "LVA",
+      "name": "Latvia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/lv.png",
+      "capital": "Riga",
+      "currency": "Euro",
+      "area": 64589,
+      "population": 1880000
+    },
+    {
+      "id": "LBN",
+      "name": "Lebanon",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/lb.png",
+      "capital": "Beirut",
+      "currency": "Lebanese Pound",
+      "area": 10452,
+      "population": 5200000
+    },
+    {
+      "id": "LSO",
+      "name": "Lesotho",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ls.png",
+      "capital": "Maseru",
+      "currency": "Lesotho Loti",
+      "area": 30355,
+      "population": 2200000
+    },
+    {
+      "id": "LBR",
+      "name": "Liberia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/lr.png",
+      "capital": "Monrovia",
+      "currency": "Liberian Dollar",
+      "area": 111369,
+      "population": 5200000
+    },
+    {
+      "id": "LBY",
+      "name": "Libya",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ly.png",
+      "capital": "Tripoli",
+      "currency": "Libyan Dinar",
+      "area": 1759540,
+      "population": 6900000
+    },
+    {
+      "id": "LIE",
+      "name": "Liechtenstein",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/li.png",
+      "capital": "Vaduz",
+      "currency": "Swiss Franc",
+      "area": 160,
+      "population": 38000
+    },
+    {
+      "id": "LTU",
+      "name": "Lithuania",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/lt.png",
+      "capital": "Vilnius",
+      "currency": "Euro",
+      "area": 65300,
+      "population": 2790000
+    },
+    {
+      "id": "LUX",
+      "name": "Luxembourg",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/lu.png",
+      "capital": "Luxembourg City",
+      "currency": "Euro",
+      "area": 2586,
+      "population": 640000
+    },
+    {
+      "id": "MDG",
+      "name": "Madagascar",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/mg.png",
+      "capital": "Antananarivo",
+      "currency": "Malagasy Ariary",
+      "area": 587041,
+      "population": 29000000
+    },
+    {
+      "id": "MWI",
+      "name": "Malawi",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/mw.png",
+      "capital": "Lilongwe",
+      "currency": "Malawian Kwacha",
+      "area": 118484,
+      "population": 19600000
+    },
+    {
+      "id": "MYS",
+      "name": "Malaysia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/my.png",
+      "capital": "Kuala Lumpur",
+      "currency": "Malaysian Ringgit",
+      "area": 330803,
+      "population": 32700000
+    },
+    {
+      "id": "MDV",
+      "name": "Maldives",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/mv.png",
+      "capital": "Malé",
+      "currency": "Maldivian Rufiyaa",
+      "area": 300,
+      "population": 557000
+    },
+    {
+      "id": "MLI",
+      "name": "Mali",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ml.png",
+      "capital": "Bamako",
+      "currency": "West African CFA franc",
+      "area": 1240192,
+      "population": 21000000
+    },
+    {
+      "id": "MLT",
+      "name": "Malta",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/mt.png",
+      "capital": "Valletta",
+      "currency": "Euro",
+      "area": 316,
+      "population": 530000
+    },
+    {
+      "id": "MHL",
+      "name": "Marshall Islands",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/mh.png",
+      "capital": "Majuro",
+      "currency": "United States Dollar",
+      "area": 181,
+      "population": 59000
+    },
+    {
+      "id": "MRT",
+      "name": "Mauritania",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/mr.png",
+      "capital": "Nouakchott",
+      "currency": "Mauritanian Ouguiya",
+      "area": 1030700,
+      "population": 4700000
+    },
+    {
+      "id": "MUS",
+      "name": "Mauritius",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/mu.png",
+      "capital": "Port Louis",
+      "currency": "Mauritian Rupee",
+      "area": 2040,
+      "population": 1260000
+    },
+    {
+      "id": "MEX",
+      "name": "Mexico",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/mx.png",
+      "capital": "Mexico City",
+      "currency": "Mexican Peso",
+      "area": 1964375,
+      "population": 129000000
+    },
+    {
+      "id": "FSM",
+      "name": "Micronesia (Federated States of)",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/fm.png",
+      "capital": "Palikir",
+      "currency": "United States Dollar",
+      "area": 702,
+      "population": 115000
+    },
+    {
+      "id": "MDA",
+      "name": "Moldova (Republic of)",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/md.png",
+      "capital": "Chișinău",
+      "currency": "Moldovan Leu",
+      "area": 33846,
+      "population": 2600000
+    },
+    {
+      "id": "MCO",
+      "name": "Monaco",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/mc.png",
+      "capital": "Monaco",
+      "currency": "Euro",
+      "area": 2,
+      "population": 39000
+    },
+    {
+      "id": "MNG",
+      "name": "Mongolia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/mn.png",
+      "capital": "Ulaanbaatar",
+      "currency": "Mongolian Tögrög",
+      "area": 1564110,
+      "population": 3300000
+    },
+    {
+      "id": "MNE",
+      "name": "Montenegro",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/me.png",
+      "capital": "Podgorica",
+      "currency": "Euro",
+      "area": 13812,
+      "population": 620000
+    },
+    {
+      "id": "MAR",
+      "name": "Morocco",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ma.png",
+      "capital": "Rabat",
+      "currency": "Moroccan Dirham",
+      "area": 446550,
+      "population": 37000000
+    },
+    {
+      "id": "MOZ",
+      "name": "Mozambique",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/mz.png",
+      "capital": "Maputo",
+      "currency": "Mozambican Metical",
+      "area": 801590,
+      "population": 32000000
+    },
+    {
+      "id": "MMR",
+      "name": "Myanmar",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/mm.png",
+      "capital": "Naypyidaw",
+      "currency": "Burmese Kyat",
+      "area": 676578,
+      "population": 54000000
+    },
+    {
+      "id": "NAM",
+      "name": "Namibia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/na.png",
+      "capital": "Windhoek",
+      "currency": "Namibian Dollar",
+      "area": 825615,
+      "population": 2500000
+    },
+    {
+      "id": "NRU",
+      "name": "Nauru",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/nr.png",
+      "capital": "Yaren (de facto)",
+      "currency": "Australian Dollar",
+      "area": 21,
+      "population": 10000
+    },
+    {
+      "id": "NPL",
+      "name": "Nepal",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/np.png",
+      "capital": "Kathmandu",
+      "currency": "Nepalese Rupee",
+      "area": 147181,
+      "population": 30000000
+    },
+    {
+      "id": "NLD",
+      "name": "Netherlands",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/nl.png",
+      "capital": "Amsterdam",
+      "currency": "Euro",
+      "area": 41850,
+      "population": 17500000
+    },
+    {
+      "id": "NZL",
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/nz.png",
+      "capital": "Wellington",
+      "currency": "New Zealand Dollar",
+      "area": 268838,
+      "population": 5100000
+    },
+    {
+      "id": "NIC",
+      "name": "Nicaragua",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/ni.png",
+      "capital": "Managua",
+      "currency": "Nicaraguan Córdoba",
+      "area": 130373,
+      "population": 6700000
+    },
+    {
+      "id": "NER",
+      "name": "Niger",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ne.png",
+      "capital": "Niamey",
+      "currency": "West African CFA franc",
+      "area": 1267000,
+      "population": 25000000
+    },
+    {
+      "id": "NGA",
+      "name": "Nigeria",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ng.png",
+      "capital": "Abuja",
+      "currency": "Nigerian Naira",
+      "area": 923768,
+      "population": 210000000
+    },
+    {
+      "id": "MKD",
+      "name": "North Macedonia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/mk.png",
+      "capital": "Skopje",
+      "currency": "Macedonian Denar",
+      "area": 25713,
+      "population": 2070000
+    },
+    {
+      "id": "NOR",
+      "name": "Norway",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/no.png",
+      "capital": "Oslo",
+      "currency": "Norwegian Krone",
+      "area": 385207,
+      "population": 5400000
+    },
+    {
+      "id": "OMN",
+      "name": "Oman",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/om.png",
+      "capital": "Muscat",
+      "currency": "Omani Rial",
+      "area": 309500,
+      "population": 4800000
+    },
+    {
+      "id": "PAK",
+      "name": "Pakistan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/pk.png",
+      "capital": "Islamabad",
+      "currency": "Pakistani Rupee",
+      "area": 796095,
+      "population": 225000000
+    },
+    {
+      "id": "PLW",
+      "name": "Palau",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/pw.png",
+      "capital": "Ngerulmud",
+      "currency": "United States Dollar",
+      "area": 459,
+      "population": 18000
+    },
+    {
+      "id": "PSE",
+      "name": "Palestine, State of",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/ps.png",
+      "capital": "Ramallah (de facto)",
+      "currency": "Israeli New Shekel, Jordanian Dinar, Egyptian Pound",
+      "area": 6220,
+      "population": 5200000
+    },
+    {
+      "id": "PAN",
+      "name": "Panama",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/pa.png",
+      "capital": "Panama City",
+      "currency": "Panamanian Balboa, United States Dollar",
+      "area": 75417,
+      "population": 4300000
+    },
+    {
+      "id": "PNG",
+      "name": "Papua New Guinea",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/pg.png",
+      "capital": "Port Moresby",
+      "currency": "Papua New Guinean Kina",
+      "area": 462840,
+      "population": 9000000
+    },
+    {
+      "id": "PRY",
+      "name": "Paraguay",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/py.png",
+      "capital": "Asunción",
+      "currency": "Paraguayan Guaraní",
+      "area": 406752,
+      "population": 7200000
+    },
+    {
+      "id": "PER",
+      "name": "Peru",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/pe.png",
+      "capital": "Lima",
+      "currency": "Peruvian Sol",
+      "area": 1285216,
+      "population": 33700000
+    },
+    {
+      "id": "PHL",
+      "name": "Philippines",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/ph.png",
+      "capital": "Manila",
+      "currency": "Philippine Peso",
+      "area": 300000,
+      "population": 113000000
+    },
+    {
+      "id": "POL",
+      "name": "Poland",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/pl.png",
+      "capital": "Warsaw",
+      "currency": "Polish Złoty",
+      "area": 312696,
+      "population": 37900000
+    },
+    {
+      "id": "PRT",
+      "name": "Portugal",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/pt.png",
+      "capital": "Lisbon",
+      "currency": "Euro",
+      "area": 92090,
+      "population": 10300000
+    },
+    {
+      "id": "QAT",
+      "name": "Qatar",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/qa.png",
+      "capital": "Doha",
+      "currency": "Qatari Riyal",
+      "area": 11586,
+      "population": 2900000
+    },
+    {
+      "id": "ROU",
+      "name": "Romania",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ro.png",
+      "capital": "Bucharest",
+      "currency": "Romanian Leu",
+      "area": 238391,
+      "population": 19100000
+    },
+    {
+      "id": "RUS",
+      "name": "Russian Federation",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ru.png",
+      "capital": "Moscow",
+      "currency": "Russian Ruble",
+      "area": 17098246,
+      "population": 145000000
+    },
+    {
+      "id": "RWA",
+      "name": "Rwanda",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/rw.png",
+      "capital": "Kigali",
+      "currency": "Rwandan Franc",
+      "area": 26338,
+      "population": 13000000
+    },
+    {
+      "id": "KNA",
+      "name": "Saint Kitts and Nevis",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/kn.png",
+      "capital": "Basseterre",
+      "currency": "East Caribbean Dollar",
+      "area": 261,
+      "population": 53000
+    },
+    {
+      "id": "LCA",
+      "name": "Saint Lucia",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/lc.png",
+      "capital": "Castries",
+      "currency": "East Caribbean Dollar",
+      "area": 616,
+      "population": 184000
+    },
+    {
+      "id": "VCT",
+      "name": "Saint Vincent and the Grenadines",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/vc.png",
+      "capital": "Kingstown",
+      "currency": "East Caribbean Dollar",
+      "area": 389,
+      "population": 111000
+    },
+    {
+      "id": "WSM",
+      "name": "Samoa",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/ws.png",
+      "capital": "Apia",
+      "currency": "Samoan Tālā",
+      "area": 2842,
+      "population": 200000
+    },
+    {
+      "id": "SMR",
+      "name": "San Marino",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/sm.png",
+      "capital": "San Marino",
+      "currency": "Euro",
+      "area": 61,
+      "population": 34000
+    },
+    {
+      "id": "STP",
+      "name": "Sao Tome and Principe",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/st.png",
+      "capital": "São Tomé",
+      "currency": "São Tomé and Príncipe Dobra",
+      "area": 964,
+      "population": 220000
+    },
+    {
+      "id": "SAU",
+      "name": "Saudi Arabia",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/sa.png",
+      "capital": "Riyadh",
+      "currency": "Saudi Riyal",
+      "area": 2149690,
+      "population": 36000000
+    },
+    {
+      "id": "SEN",
+      "name": "Senegal",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/sn.png",
+      "capital": "Dakar",
+      "currency": "West African CFA franc",
+      "area": 196722,
+      "population": 17200000
+    },
+    {
+      "id": "SRB",
+      "name": "Serbia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/rs.png",
+      "capital": "Belgrade",
+      "currency": "Serbian Dinar",
+      "area": 88361,
+      "population": 7100000
+    },
+    {
+      "id": "SYC",
+      "name": "Seychelles",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/sc.png",
+      "capital": "Victoria",
+      "currency": "Seychellois Rupee",
+      "area": 452,
+      "population": 99000
+    },
+    {
+      "id": "SLE",
+      "name": "Sierra Leone",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/sl.png",
+      "capital": "Freetown",
+      "currency": "Sierra Leonean Leone",
+      "area": 71740,
+      "population": 8200000
+    },
+    {
+      "id": "SGP",
+      "name": "Singapore",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/sg.png",
+      "capital": "Singapore",
+      "currency": "Singapore Dollar",
+      "area": 710,
+      "population": 5700000
+    },
+    {
+      "id": "SVK",
+      "name": "Slovakia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/sk.png",
+      "capital": "Bratislava",
+      "currency": "Euro",
+      "area": 49035,
+      "population": 5450000
+    },
+    {
+      "id": "SVN",
+      "name": "Slovenia",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/si.png",
+      "capital": "Ljubljana",
+      "currency": "Euro",
+      "area": 20273,
+      "population": 2100000
+    },
+    {
+      "id": "SLB",
+      "name": "Solomon Islands",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/sb.png",
+      "capital": "Honiara",
+      "currency": "Solomon Islands Dollar",
+      "area": 28400,
+      "population": 700000
+    },
+    {
+      "id": "SOM",
+      "name": "Somalia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/so.png",
+      "capital": "Mogadishu",
+      "currency": "Somali Shilling",
+      "area": 637657,
+      "population": 16400000
+    },
+    {
+      "id": "ZAF",
+      "name": "South Africa",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/za.png",
+      "capital": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+      "currency": "South African Rand",
+      "area": 1221037,
+      "population": 60000000
+    },
+    {
+      "id": "SSD",
+      "name": "South Sudan",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ss.png",
+      "capital": "Juba",
+      "currency": "South Sudanese Pound",
+      "area": 644329,
+      "population": 11000000
+    },
+    {
+      "id": "ESP",
+      "name": "Spain",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/es.png",
+      "capital": "Madrid",
+      "currency": "Euro",
+      "area": 505992,
+      "population": 47400000
+    },
+    {
+      "id": "LKA",
+      "name": "Sri Lanka",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/lk.png",
+      "capital": "Sri Jayawardenepura Kotte (legislative), Colombo (executive and judicial)",
+      "currency": "Sri Lankan Rupee",
+      "area": 65610,
+      "population": 22000000
+    },
+    {
+      "id": "SDN",
+      "name": "Sudan",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/sd.png",
+      "capital": "Khartoum",
+      "currency": "Sudanese Pound",
+      "area": 1886068,
+      "population": 44000000
+    },
+    {
+      "id": "SUR",
+      "name": "Suriname",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/sr.png",
+      "capital": "Paramaribo",
+      "currency": "Surinamese Dollar",
+      "area": 163820,
+      "population": 600000
+    },
+    {
+      "id": "SWE",
+      "name": "Sweden",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/se.png",
+      "capital": "Stockholm",
+      "currency": "Swedish Krona",
+      "area": 450295,
+      "population": 10400000
+    },
+    {
+      "id": "CHE",
+      "name": "Switzerland",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ch.png",
+      "capital": "Bern",
+      "currency": "Swiss Franc",
+      "area": 41285,
+      "population": 8700000
+    },
+    {
+      "id": "SYR",
+      "name": "Syrian Arab Republic",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/sy.png",
+      "capital": "Damascus",
+      "currency": "Syrian Pound",
+      "area": 185180,
+      "population": 21000000
+    },
+    {
+      "id": "TWN",
+      "name": "Taiwan, Province of China",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/tw.png",
+      "capital": "Taipei",
+      "currency": "New Taiwan Dollar",
+      "area": 36193,
+      "population": 23800000
+    },
+    {
+      "id": "TJK",
+      "name": "Tajikistan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/tj.png",
+      "capital": "Dushanbe",
+      "currency": "Tajikistani Somoni",
+      "area": 143100,
+      "population": 9700000
+    },
+    {
+      "id": "TZA",
+      "name": "Tanzania, United Republic of",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/tz.png",
+      "capital": "Dodoma",
+      "currency": "Tanzanian Shilling",
+      "area": 945087,
+      "population": 61000000
+    },
+    {
+      "id": "THA",
+      "name": "Thailand",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/th.png",
+      "capital": "Bangkok",
+      "currency": "Thai Baht",
+      "area": 513120,
+      "population": 70000000
+    },
+    {
+      "id": "TLS",
+      "name": "Timor-Leste",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/tl.png",
+      "capital": "Dili",
+      "currency": "United States Dollar",
+      "area": 14874,
+      "population": 1300000
+    },
+    {
+      "id": "TGO",
+      "name": "Togo",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/tg.png",
+      "capital": "Lomé",
+      "currency": "West African CFA franc",
+      "area": 56785,
+      "population": 8600000
+    },
+    {
+      "id": "TON",
+      "name": "Tonga",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/to.png",
+      "capital": "Nukuʻalofa",
+      "currency": "Tongan Paʻanga",
+      "area": 747,
+      "population": 105000
+    },
+    {
+      "id": "TTO",
+      "name": "Trinidad and Tobago",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/tt.png",
+      "capital": "Port of Spain",
+      "currency": "Trinidad and Tobago Dollar",
+      "area": 5130,
+      "population": 1500000
+    },
+    {
+      "id": "TUN",
+      "name": "Tunisia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/tn.png",
+      "capital": "Tunis",
+      "currency": "Tunisian Dinar",
+      "area": 163610,
+      "population": 11800000
+    },
+    {
+      "id": "TUR",
+      "name": "Türkiye",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/tr.png",
+      "capital": "Ankara",
+      "currency": "Turkish Lira",
+      "area": 783562,
+      "population": 84700000
+    },
+    {
+      "id": "TKM",
+      "name": "Turkmenistan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/tm.png",
+      "capital": "Ashgabat",
+      "currency": "Turkmenistani Manat",
+      "area": 488100,
+      "population": 6300000
+    },
+    {
+      "id": "TUV",
+      "name": "Tuvalu",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/tv.png",
+      "capital": "Funafuti",
+      "currency": "Australian Dollar",
+      "area": 26,
+      "population": 12000
+    },
+    {
+      "id": "UGA",
+      "name": "Uganda",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/ug.png",
+      "capital": "Kampala",
+      "currency": "Ugandan Shilling",
+      "area": 241551,
+      "population": 47000000
+    },
+    {
+      "id": "UKR",
+      "name": "Ukraine",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/ua.png",
+      "capital": "Kyiv",
+      "currency": "Ukrainian Hryvnia",
+      "area": 603500,
+      "population": 43700000
+    },
+    {
+      "id": "ARE",
+      "name": "United Arab Emirates",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/ae.png",
+      "capital": "Abu Dhabi",
+      "currency": "United Arab Emirates Dirham",
+      "area": 83600,
+      "population": 9900000
+    },
+    {
+      "id": "GBR",
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "continent": "Europe",
+      "flag": "https://flagcdn.com/w320/gb.png",
+      "capital": "London",
+      "currency": "Pound Sterling",
+      "area": 242495,
+      "population": 67300000
+    },
+    {
+      "id": "USA",
+      "name": "United States of America",
+      "continent": "North America",
+      "flag": "https://flagcdn.com/w320/us.png",
+      "capital": "Washington, D.C.",
+      "currency": "United States Dollar",
+      "area": 9833520,
+      "population": 331000000
+    },
+    {
+      "id": "URY",
+      "name": "Uruguay",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/uy.png",
+      "capital": "Montevideo",
+      "currency": "Uruguayan Peso",
+      "area": 176215,
+      "population": 3500000
+    },
+    {
+      "id": "UZB",
+      "name": "Uzbekistan",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/uz.png",
+      "capital": "Tashkent",
+      "currency": "Uzbekistani Som",
+      "area": 447400,
+      "population": 34000000
+    },
+    {
+      "id": "VUT",
+      "name": "Vanuatu",
+      "continent": "Oceania",
+      "flag": "https://flagcdn.com/w320/vu.png",
+      "capital": "Port Vila",
+      "currency": "Vanuatu Vatu",
+      "area": 12189,
+      "population": 320000
+    },
+    {
+      "id": "VEN",
+      "name": "Venezuela (Bolivarian Republic of)",
+      "continent": "South America",
+      "flag": "https://flagcdn.com/w320/ve.png",
+      "capital": "Caracas",
+      "currency": "Venezuelan Bolívar Soberano",
+      "area": 916445,
+      "population": 28200000
+    },
+    {
+      "id": "VNM",
+      "name": "Viet Nam",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/vn.png",
+      "capital": "Hanoi",
+      "currency": "Vietnamese Đồng",
+      "area": 331212,
+      "population": 97500000
+    },
+    {
+      "id": "YEM",
+      "name": "Yemen",
+      "continent": "Asia",
+      "flag": "https://flagcdn.com/w320/ye.png",
+      "capital": "Sana'a (de facto), Aden (temporary capital)",
+      "currency": "Yemeni Rial",
+      "area": 527968,
+      "population": 30000000
+    },
+    {
+      "id": "ZMB",
+      "name": "Zambia",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/zm.png",
+      "capital": "Lusaka",
+      "currency": "Zambian Kwacha",
+      "area": 752612,
+      "population": 19500000
+    },
+    {
+      "id": "ZWE",
+      "name": "Zimbabwe",
+      "continent": "Africa",
+      "flag": "https://flagcdn.com/w320/zw.png",
+      "capital": "Harare",
+      "currency": "Zimbabwean Dollar (de facto multiple currencies)",
+      "area": 390757,
+      "population": 15000000
+    }
+  ],
+  "travelLogs": [
+    {
+      "countryId": "FRA",
+      "isVisited": true,
+      "visitedDate": "2022-08-03",
+      "rating": 5,
+      "notes": "I loved the pains aux chocolat",
+      "id": "1"
+    },
+    {
+      "countryId": "CPV",
+      "isVisited": false,
+      "notes": "Hike volcanoes in Fogo, Swim in turquoise water in Sal, Listen to morna music in Mindelo, Wander colorful streets of São Vicente, Watch the sunset from a black sand beach.",
+      "id": "sMv9fZ-"
+    },
+    {
+      "countryId": "BRA",
+      "isVisited": true,
+      "visitedDate": "2025-05-21",
+      "rating": "5",
+      "notes": "Samba y caipirinhas",
+      "id": "PD-q2_6"
+    },
+    {
+      "countryId": "CAN",
+      "isVisited": true,
+      "visitedDate": "2025-05-01",
+      "rating": "5",
+      "notes": "I loved Montreal in the summer",
+      "id": "uNlqeky"
+    },
+    {
+      "countryId": "ESP",
+      "isVisited": true,
+      "visitedDate": "2016-02-01",
+      "rating": "5",
+      "notes": "One of the countries with the best food in the world, beautiful landscapes. I felt in love with Galicia. Such an amazing region!",
+      "id": "Wlt8hCL"
+    },
+    {
+      "countryId": "KEN",
+      "isVisited": false,
+      "visitedDate": null,
+      "rating": null,
+      "notes": "The best safaris!",
+      "id": "Oqw76Tw"
+    }
+  ]
+}
